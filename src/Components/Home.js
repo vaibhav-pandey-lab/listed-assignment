@@ -20,7 +20,8 @@ function Home() {
         </div>
         <div className="sign">
             <div className="google-sign">
-                <img className="google-image" src="https://th.bing.com/th/id/OIP.urSbI2XFT9yzdo32KykFyAHaHa?pid=ImgDet&rs=1" />
+           
+                <img className="google-image" src="https://th.bing.com/th/id/OIP.urSbI2XFT9yzdo32KykFyAHaHa?pid=ImgDet&rs=1" alt="logoImg" />
                 <div className="only-google-sign"> Sign in with Google</div>
             </div>
             <div className="apple-sign">
